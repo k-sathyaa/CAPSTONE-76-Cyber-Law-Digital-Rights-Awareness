@@ -1,0 +1,80 @@
+[
+  {
+    "id": "it-act",
+    "title": "Information Technology Act, 2000",
+    "tag": "Core law",
+    "summary": "India's principal statute addressing electronic records, digital signatures and specified cyber offences.",
+    "points": [
+      "Recognises electronic records and electronic signatures within the legal framework.",
+      "Contains provisions dealing with offences such as identity theft, cheating by personation using computer resources, and violation of privacy.",
+      "Section 43A was omitted by the Jan Vishwas (Amendment of Provisions) Act, 2023; avoid relying on outdated summaries that present it as a current operative provision.",
+      "The Act is not a complete substitute for understanding other criminal, consumer, data-protection and constitutional laws."
+    ],
+    "tip": "For a real incident, preserve evidence and seek advice from a qualified professional."
+  },
+  {
+    "id": "dpdp",
+    "title": "Digital Personal Data Protection Act, 2023",
+    "tag": "Data rights",
+    "summary": "A framework concerning processing of digital personal data and the responsibilities of Data Fiduciaries.",
+    "points": [
+      "The Act uses concepts including Data Principal (the individual the data relates to) and Data Fiduciary (the entity deciding why and how data is processed).",
+      "It provides for notice, consent in applicable cases, certain individual rights, duties and grievance mechanisms, subject to the Act and rules.",
+      "The precise commencement and implementation of provisions depend on official notifications and rules. Check the latest Gazette and MeitY material before relying on a specific duty or deadline.",
+      "This learning portal is educational and does not provide legal advice."
+    ],
+    "tip": "Read privacy notices before sharing personal information; share only what is needed."
+  },
+  {
+    "id": "constitution",
+    "title": "Constitutional digital rights",
+    "tag": "Fundamental rights",
+    "summary": "Constitutional protections remain relevant when people use digital services and communicate online.",
+    "points": [
+      "Article 19(1)(a) protects freedom of speech and expression, subject to the reasonable restrictions in Article 19(2).",
+      "Article 21 protects life and personal liberty; the Supreme Court recognised privacy as a fundamental right in the Puttaswamy judgment (2017).",
+      "Rights online are not unlimited: lawful restrictions and the rights of others also matter.",
+      "A platform's terms of service are different from constitutional rights and statutory protections."
+    ],
+    "tip": "Think before posting: lawful expression does not include a licence to threaten, defame or harass others."
+  },
+  {
+    "id": "cybercrime",
+    "title": "Common cyber offences",
+    "tag": "Stay alert",
+    "summary": "Recognise common forms of online harm and know where to seek help.",
+    "points": [
+      "Phishing: deceptive messages or websites designed to obtain credentials or financial information.",
+      "Identity theft and impersonation: misuse of another person's identifying information or credentials.",
+      "Cyberstalking, threats, harassment and non-consensual sharing of intimate material can have serious legal consequences.",
+      "Online financial fraud should be reported promptly to the bank/payment provider and the official cybercrime reporting system."
+    ],
+    "tip": "Never share an OTP, UPI PIN, password or screen-sharing access with someone who contacts you unexpectedly."
+  },
+  {
+    "id": "intermediaries",
+    "title": "Platforms and intermediary rules",
+    "tag": "Online platforms",
+    "summary": "Intermediaries have legal obligations under Indian law, including applicable due-diligence requirements.",
+    "points": [
+      "The Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, as amended, set due-diligence requirements for intermediaries.",
+      "Platforms may provide grievance channels; check the platform's current grievance policy and official contact route.",
+      "A platform report does not replace a police complaint or other legal remedy where one is appropriate.",
+      "Do not assume every post is automatically removed: processes depend on the law, facts and applicable procedure."
+    ],
+    "tip": "Save the post URL, account details, date/time and relevant messages before reporting, if safe to do so."
+  },
+  {
+    "id": "copyright",
+    "title": "Copyright and digital content",
+    "tag": "Respect creators",
+    "summary": "Digital content is not automatically free to copy simply because it is easy to download or share.",
+    "points": [
+      "The Copyright Act, 1957 protects qualifying original literary, dramatic, musical and artistic works, films and sound recordings.",
+      "Permission, licence terms, public-domain status and statutory exceptions determine whether a use is lawful.",
+      "Give attribution where required, but remember that credit alone does not replace permission.",
+      "Use openly licensed or public-domain material and follow the licence conditions."
+    ],
+    "tip": "Before reusing an image, video, code sample or song, check its licence and permitted uses."
+  }
+]

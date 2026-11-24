@@ -1,0 +1,32 @@
+[
+  {
+    "name": "National Cyber Crime Reporting Portal",
+    "url": "https://cybercrime.gov.in/",
+    "description": "Official portal to report cybercrime in India."
+  },
+  {
+    "name": "Cyber fraud helpline — 1930",
+    "url": "https://www.mha.gov.in/",
+    "description": "For prompt reporting of cyber financial fraud; also contact your bank/payment provider immediately."
+  },
+  {
+    "name": "India Code — Information Technology Act, 2000",
+    "url": "https://www.indiacode.nic.in/",
+    "description": "Official repository for central legislation. Search for the Information Technology Act, 2000."
+  },
+  {
+    "name": "MeitY — Digital Personal Data Protection",
+    "url": "https://www.meity.gov.in/",
+    "description": "Official ministry updates, notifications and materials on data protection."
+  },
+  {
+    "name": "CERT-In",
+    "url": "https://www.cert-in.org.in/",
+    "description": "India's national agency for responding to cyber security incidents."
+  },
+  {
+    "name": "National Consumer Helpline",
+    "url": "https://consumerhelpline.gov.in/",
+    "description": "Consumer grievance support, including relevant digital-service complaints."
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "question": "A caller says they are from your bank and asks for your OTP to stop a suspicious transaction. What should you do?",
+    "options": [
+      "Share it quickly",
+      "Never share it; contact the bank through its official channel",
+      "Send it only if they know your name",
+      "Share half the OTP"
+    ],
+    "answer": 1,
+    "explanation": "Banks and legitimate support staff should not ask you to disclose your OTP or UPI PIN."
+  },
+  {
+    "id": 2,
+    "question": "Which Indian law is a key statute for electronic records and specified cyber offences?",
+    "options": [
+      "Information Technology Act, 2000",
+      "Motor Vehicles Act, 1988",
+      "Forest Act, 1927",
+      "Factories Act, 1948"
+    ],
+    "answer": 0,
+    "explanation": "The Information Technology Act, 2000 is a central part of India's cyber-law framework."
+  },
+  {
+    "id": 3,
+    "question": "What is phishing?",
+    "options": [
+      "A secure backup method",
+      "A deceptive attempt to steal information",
+      "A type of screen brightness",
+      "A legal online payment"
+    ],
+    "answer": 1,
+    "explanation": "Phishing uses deceptive messages, links or websites to trick people into revealing information."
+  },
+  {
+    "id": 4,
+    "question": "Which constitutional provision is associated with protection of life and personal liberty?",
+    "options": [
+      "Article 14",
+      "Article 19(1)(a)",
+      "Article 21",
+      "Article 32 only"
+    ],
+    "answer": 2,
+    "explanation": "Article 21 protects life and personal liberty; privacy has been recognised as part of the constitutional framework."
+  },
+  {
+    "id": 5,
+    "question": "What should you do after noticing an unauthorised digital payment?",
+    "options": [
+      "Wait for a week",
+      "Delete all messages",
+      "Contact your bank/payment provider and report promptly",
+      "Post your PIN online"
+    ],
+    "answer": 2,
+    "explanation": "Prompt reporting can help the bank/payment provider take timely steps. In India, the cyber-fraud helpline 1930 is also available."
+  },
+  {
+    "id": 6,
+    "question": "Does giving credit always make it lawful to reuse a copyrighted image?",
+    "options": [
+      "Yes, always",
+      "No; check permission, licence and applicable exceptions",
+      "Only on social media",
+      "Only if the image is small"
+    ],
+    "answer": 1,
+    "explanation": "Attribution is not a substitute for permission or a valid legal basis."
+  },
+  {
+    "id": 7,
+    "question": "What is a safer password practice?",
+    "options": [
+      "Use the same password everywhere",
+      "Use a long, unique password and enable MFA",
+      "Use your date of birth",
+      "Share it with friends"
+    ],
+    "answer": 1,
+    "explanation": "Unique passwords and multi-factor authentication reduce the impact of account compromise."
+  },
+  {
+    "id": 8,
+    "question": "Which is the official national cybercrime reporting portal in India?",
+    "options": [
+      "cybercrime.gov.in",
+      "example.com",
+      "uidai.gov.in",
+      "incometax.gov.in"
+    ],
+    "answer": 0,
+    "explanation": "The National Cyber Crime Reporting Portal is available at cybercrime.gov.in."
+  }
+]
